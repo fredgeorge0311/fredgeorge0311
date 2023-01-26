@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi All. Hope you are doing well!! :) 👋👋👋
 
 <h1 align="center">I am a Senior Full Stack & Mobile App developer.</h1>
 
@@ -25,7 +25,7 @@
     />
    </a>
 
-  <a href="https://github.com/risingtalent/github-readme-stats">
+  <a href="https://github.com/fredgeorge0311/github-readme-stats">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredgeorge0311&layout=compact&theme=vision-friendly-dark" />
