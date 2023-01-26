@@ -1,4 +1,5 @@
-### Hi All. Hope you are doing well!! :) 👋👋👋
+### Hi All. 👋👋👋
+Hope you are doing well!! :) 
 
 <h1 align="center">I am a Senior Full Stack & Mobile App developer.</h1>
 
@@ -24,7 +25,6 @@
       src="https://github-readme-stats.vercel.app/api?username=fredgeorge0311&count_private=true&show_icons=true&custom_title=GeorgeFred's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
     />
    </a>
-
   <a href="https://github.com/fredgeorge0311/github-readme-stats">
     <img
       height="150"
@@ -36,7 +36,8 @@
 
 - 📫 How to reach me </br>
     Email: george.fred0311@gmail.com </br>
-    Skype: live:.cid.59ce53944ce28482 </br>    
+    Skype: live:.cid.59ce53944ce28482 </br>
+    Resume: https://flowcv.com/resume/8o5hpas28f </br>
     
 <!--
 **fredgeorge0311/fredgeorge0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
