@@ -37,7 +37,7 @@ Hope you are doing well!! :)
 - 📫 How to reach me </br>
     Email: george.fred0311@gmail.com </br>
     Skype: live:.cid.59ce53944ce28482 </br>
-    Resume: https://flowcv.com/resume/8o5hpas28f </br>
+  <!--   Resume: https://flowcv.com/resume/8o5hpas28f </br> -->
     
 <!--
 **fredgeorge0311/fredgeorge0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
