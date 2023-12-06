@@ -31,10 +31,10 @@ Hope you are doing well!! :)
 </p>
 
 
-
+<!--
 - 📫 How to reach me </br>
     Email: george.fred0311@gmail.com </br>
-    Skype: live:.cid.59ce53944ce28482 </br>
+    Skype: live:.cid.59ce53944ce28482 </br> -->
   <!--   Resume: https://flowcv.com/resume/8o5hpas28f </br> -->
     
 <!--
