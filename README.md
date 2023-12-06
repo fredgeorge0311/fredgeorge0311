@@ -1,6 +1,6 @@
-### Hey there, feel free to check out what I've been up to!
+# Hey there, feel free to check out what I've been up to!
 
-<h1 align="center">I am a Senior Full Stack & Mobile App developer.</h1>
+## I am a Senior Full Stack & Mobile App developer.
 
 <p align="center">
   <a href="https://github.com/fredgeorge0311?tab=repositories&sort=stargazers">
