@@ -1,5 +1,4 @@
-### Hi All. 👋👋👋
-Hope you are doing well!! :) 
+### Hey there, feel free to check out what I've been up to!
 
 <h1 align="center">I am a Senior Full Stack & Mobile App developer.</h1>
 
