@@ -1,6 +1,6 @@
 # Hi there, feel free to check out what I've been up to!
 
-##  Full Stack & Mobile App Developer
+##  Senior Full-Stack Web & Mobile App Developer
 
 <!--<img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="fredgeorge0311" /> -->
 <p align="center">
