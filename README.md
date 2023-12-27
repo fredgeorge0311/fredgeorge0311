@@ -3,6 +3,7 @@
 ##  Senior Full-Stack Web & Mobile App Developer
 
 <!--<img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="fredgeorge0311" /> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fredgeorge0311&label=Profile%20views&color=0e75b6&style=flat" alt="fredgeorge0311" /> </p>
 <p align="center">
   <a href="https://github.com/fredgeorge0311?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/fredgeorge0311"/></a>
