@@ -35,7 +35,7 @@
 - 📫 How to reach me </br>
     Email: george.fred0311@gmail.com </br>
     Skype: live:.cid.59ce53944ce28482 </br>
-    Telegram: https://t.me/uniQue0311 </br>
+    Telegram: https://t.me/wolfox2311 </br>
     Discord: _george0311 </br>
    <!-- WhatsApp: +44 7440 548954 </br>
     Resume: https://flowcv.com/resume/8o5hpas28f </br> -->
