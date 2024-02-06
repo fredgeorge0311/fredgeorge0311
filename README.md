@@ -31,16 +31,6 @@
 </p>
 
 
-<div align="center">
-  <a href="https://www.enes.software/">
-    <img src="./icon/devops.gif">
-  </a>
-</div>
-
-![enes](gitartwork.svg)
-
-![snake svg](https://github.com/devenes/devenes/blob/output/github-contribution-grid-snake.svg)
-
 - 📫 How to reach me </br>
     Email: george.fred0311@gmail.com </br>
     Skype: live:.cid.59ce53944ce28482 </br>
