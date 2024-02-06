@@ -8,9 +8,6 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/fredgeorge0311"/></a>
   <a href="https://github.com/fredgeorge0311?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/fredgeorge0311?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-  <a href="https://www.enes.software/">
-      <img align="center" src="https://komarev.com/ghpvc/?username=devenes&color=blue&style=plastic">
-    </a>
 </p>
 
 <p align="center">
@@ -33,6 +30,38 @@
   </a>  
 </p>
 
+
+<div align="center">
+    <a href="https://www.enes.software/">
+      <img align="center" src="https://komarev.com/ghpvc/?username=devenes&color=blue&style=plastic">
+    </a>
+    <!-- followers on GitHub  -->
+    <!-- <a href="https://www.enes.software/">
+      <img align="center" src="https://img.shields.io/github/followers/devenes?style=flat-square&color=f75c7e">
+    </a> -->
+    <a href="https://www.linkedin.com/in/devenes/">
+      <img align="center"
+        src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8">
+    </a>
+    <a href="https://www.twitter.com/thedevenes/">
+      <img align="center"
+        src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2">
+    </a>
+    <!-- <a>
+      <img align="center" src="https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=f75c7e">
+    </a> -->
+    <a href="https://www.instagram.com/enes.ai/">
+      <img align="center"
+        src="https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=f75c7e">
+    </a>
+    <a href="https://github.com/devenes/">
+      <img align="center" src="https://img.shields.io/github/followers/devenes?label=follow&style=social">
+    </a>
+    <a href="https://devenes.medium.com/">
+      <img align="center"
+        src="https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=black">
+    </a>
+  </div>
 
 
 - 📫 How to reach me </br>
