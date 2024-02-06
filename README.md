@@ -32,37 +32,14 @@
 
 
 <div align="center">
-    <a href="https://www.enes.software/">
-      <img align="center" src="https://komarev.com/ghpvc/?username=devenes&color=blue&style=plastic">
-    </a>
-    <!-- followers on GitHub  -->
-    <!-- <a href="https://www.enes.software/">
-      <img align="center" src="https://img.shields.io/github/followers/devenes?style=flat-square&color=f75c7e">
-    </a> -->
-    <a href="https://www.linkedin.com/in/devenes/">
-      <img align="center"
-        src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8">
-    </a>
-    <a href="https://www.twitter.com/thedevenes/">
-      <img align="center"
-        src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2">
-    </a>
-    <!-- <a>
-      <img align="center" src="https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=f75c7e">
-    </a> -->
-    <a href="https://www.instagram.com/enes.ai/">
-      <img align="center"
-        src="https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=f75c7e">
-    </a>
-    <a href="https://github.com/devenes/">
-      <img align="center" src="https://img.shields.io/github/followers/devenes?label=follow&style=social">
-    </a>
-    <a href="https://devenes.medium.com/">
-      <img align="center"
-        src="https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=black">
-    </a>
-  </div>
+  <a href="https://www.enes.software/">
+    <img src="./icon/devops.gif">
+  </a>
+</div>
 
+![enes](gitartwork.svg)
+
+![snake svg](https://github.com/devenes/devenes/blob/output/github-contribution-grid-snake.svg)
 
 - 📫 How to reach me </br>
     Email: george.fred0311@gmail.com </br>
